@@ -1,0 +1,19 @@
+{
+  "name": "@smolenskiyav/ajs-22_3.platforms",
+  "version": "1.0.0",
+  "description": "**Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SmolenskiyAV/ajs-22_3.platforms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SmolenskiyAV/ajs-22_3.platforms/issues"
+  },
+  "homepage": "https://github.com/SmolenskiyAV/ajs-22_3.platforms#readme"
+}
